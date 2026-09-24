@@ -1,16 +1,16 @@
 ## Hi there 👋
+My name is Mathéo Brugnon, and I am a first-year master’s student in High-Performance Computing and Simulation.
 
-<!--
-**Ewaky007/Ewaky007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am particularly interested in parallel computing, scientific computing, simulation, artificial intelligence, data science, and 3D reconstruction. I also enjoy working on software development projects involving web technologies, game development, and distributed systems.
 
-Here are some ideas to get you started:
+# Contact informations :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email : matheo.brugnon@etudiant.univ-reims.fr
+- Linkedin : www.linkedin.com/in/ewaky2
+- GitHub : https://github.com/Ewaky007
+
+## Current focus :
+
+I am currently developing my skills in high-performance computing and simulation, with a particular focus on parallel programming and the use of HPC infrastructures.
+
+I also work on personal and academic projects related to 3D reconstruction, Gaussian Splatting and IA.
